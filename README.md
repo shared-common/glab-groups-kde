@@ -11,7 +11,7 @@ Thin GitHub Actions wrapper for the KDE Invent top-level group mirror.
   beneath `glab-forks`
 - Runs deterministic mirror batch shards with five jobs max in parallel
 - Schedules at minute 5 of hours 4, 10, 16, and 22 UTC
-- Publishes plan, report, CSV, JSON, and Parquet artifacts for each run
+- Publishes discovery, plan, report, CSV, JSON, and Parquet artifacts for each run
 
 ## Validation
 
